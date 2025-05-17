@@ -72,3 +72,5 @@ Follow these steps to run the game on your local machine:
    - Use the **arrow keys** to move the player.
    - Collect coins to increase your score.
    - Avoid enemies and their bullets to survive.
+  
+   - tessst
