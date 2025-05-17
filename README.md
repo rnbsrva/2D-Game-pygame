@@ -73,4 +73,4 @@ Follow these steps to run the game on your local machine:
    - Collect coins to increase your score.
    - Avoid enemies and their bullets to survive.
   
-   - tessst   - tessst - tessst
+   - tessst   - tessst - tessst  - tessst
